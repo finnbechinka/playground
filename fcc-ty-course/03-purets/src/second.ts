@@ -14,3 +14,5 @@ class Insta implements TakePhoto, Story {
 interface Story {
   create_story(): void;
 }
+
+export {};
